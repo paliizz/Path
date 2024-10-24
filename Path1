@@ -27,7 +27,7 @@ solana-keygen new
 
 
 
-NODE_MAJOR=89
+NODE_MAJOR=91
 
 sudo apt-get update
 
