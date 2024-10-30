@@ -27,7 +27,7 @@ solana-keygen new
 
 
 
-NODE_MAJOR=91
+NODE_MAJOR=98
 
 sudo apt-get update
 
@@ -104,7 +104,7 @@ https://explorer.dev.eclipsenetwork.xyz/address/8Z3ADYB8hWTQqe2k9dH1GGKMbpZmsYg8
 
 Wrote new keypair to /root/.config/solana/id.json
 ===========================================================================
-pubkey: 9niU8kJ^yhdkl9JTuM5iu7g98H68i7ubh5w
+pubkey: 9niU8kJ^yhdkl9JTuM5iu767um68i7ubh5w
 ===========================================================================
 Save this seed phrase and your BIP39 passphrase to recover your new keypair:
 letter inner job suffer sudden primary trumpet atom allow face person diary
